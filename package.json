@@ -1,0 +1,1 @@
+{"description":"Funniest Cat Voicemail Greeting — a one-line voicemail greeting recorded by a cat, for make.fun","license":"MIT","main":"main.ts","name":"cat-voicemail-greeting","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
